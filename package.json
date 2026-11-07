@@ -1,0 +1,13 @@
+{
+  "name": "basics",
+  "version": "1.0.0",
+  "description": "Node.js basics: hello world, server, file system, password generator, email sender",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "generate-password": "^1.7.1",
+    "nodemailer": "^10.3.1"
+  }
+}
